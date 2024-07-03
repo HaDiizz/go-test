@@ -7,7 +7,7 @@ import (
 
 func main() {
 	//! ข้อ0
-	// no0()
+	no0()
 
 	//! ข้อ1
 	// no1()
